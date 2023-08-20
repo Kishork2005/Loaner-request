@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>New Loaner Rquest</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Loaner Rquest</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">16856ca7551201107f44d7f62dcafeb2</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-20 17:26:24</sys_created_on>
+        <sys_id>ee070dd574f0b1107f44635af09d2453</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loaner Rquest</sys_name>
+        <sys_package display_value="Loner Request" source="x_cdltd_loner_requ">f565415574f0b1107f44635af09d243a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loner Request">f565415574f0b1107f44635af09d243a</sys_scope>
+        <sys_update_name>sys_wizard_answer_ee070dd574f0b1107f44635af09d2453</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-20 17:26:24</sys_updated_on>
+        <table/>
+        <target_url>x_cdltd_loner_requ_loaner_rquest.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>
